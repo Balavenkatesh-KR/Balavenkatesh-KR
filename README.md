@@ -15,9 +15,13 @@ Passionate about turning raw data into meaningful insights, I'm on a mission to 
 - **Pandas**: Mastering the art of data manipulation with this powerful Python library.
 - **Jupyter Notebooks**: Where my data analysis magic happens - documenting, coding, and visualizing all in one place.
 - **Tableau**: Crafting interactive and informative dashboards for a compelling data storytelling experience.
+  
+## 🌱 As a Fresher:
+Eager to Learn: As a recent graduate, I bring a fresh perspective and a hunger for learning. I'm excited to dive deep into new challenges and expand my skill set.
 
 ## 📚 Education
 - **Certification in Data Analysis**: [GREAT LEARNING], [2024]
+- Degree in Btech Agricultural Engineering: [KARUNYA INSTITUE OF TECHNLOGY AND SCIENCES], [2023]
 
 ## 📫 Let's Connect!
 - **LinkedIn**: www.linkedin.com/in/balavenkatesh16
