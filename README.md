@@ -20,7 +20,7 @@ Passionate about turning raw data into meaningful insights, I'm on a mission to 
 - **Certification in Data Analysis**: [GREAT LEARNING], [2024]
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Balavenkatesh KR](www.linkedin.com/in/balavenkatesh16)
+- **LinkedIn**: www.linkedin.com/in/balavenkatesh16
 - **Email**: balakrbv7@gmail.com
 
 Feel free to explore my repositories and join me on this exciting data journey! 🌐 Let's turn data into decisions! 💡
